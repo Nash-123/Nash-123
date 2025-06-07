@@ -4,6 +4,6 @@
 
 - Currently Building AI Solutions at [Openshift-AI]([https://github.com/bottlerocket-os/bottlerocket](https://www.redhat.com/en/products/ai/openshift-ai)]) with Redhat
 - 🎓 B.Tech in Computer Science | KIIT University
-- 💻 I code in `Java`, `JavaScript`, `Go`
+- 💻 I code in `Java`, `JavaScript` & `Go`
 - 🎶 Tea in one hand, cricket on the screen, and music in the background — that's my vibe
 - 📬 Reach out: nishanacharya29@gmail.com
